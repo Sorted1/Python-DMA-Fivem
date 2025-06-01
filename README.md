@@ -1,4 +1,4 @@
-# FiveM Memory ESP & Invisibility PoC
+# FiveM Memory Reading & Writing PoC for DMA
 
 This is a **proof-of-concept (PoC)** Python script using [`memprocfs`](https://github.com/ufrisk/MemProcFS) to interact with live memory in **FiveM/GTA V**, demonstrating:
 
